@@ -9,14 +9,5 @@ public class Main {
         charArray[2]=string2.charAt(string2.length()-2);
         charArray[3]=string2.charAt(string2.length()-1);
         System.out.println(charArray);
-
-
-
-        //System.out.println(Arrays.toString(charArray));
-
-
-       // charArray= (string1.substring(0,2)+string2.substring(string2.length()-2)).toCharArray();
-
-
     }
 }
